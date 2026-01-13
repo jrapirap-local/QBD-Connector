@@ -1,0 +1,9 @@
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.ECIRA\bin\Debug\MBPH.ECIRA.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.ECIRA\bin\Debug\MBPH.ECIRA.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.ECIRA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.ECIRA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.ECIRA\obj\Debug\MBPH.ECIRA.csproj.AssemblyReference.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.ECIRA\obj\Debug\MBPH.ECIRA.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.ECIRA\obj\Debug\MBPH.ECIRA.csproj.Up2Date
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.ECIRA\obj\Debug\MBPH.ECIRA.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.ECIRA\obj\Debug\MBPH.ECIRA.pdb

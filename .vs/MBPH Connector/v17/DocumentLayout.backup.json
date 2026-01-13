@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4D6FB7-FFC7-4807-B8C1-BEE9D5F4D1A8}|MBPH Connector\\MBPH Connector.csproj|C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\mbph connector\\repositories\\syncbillsandpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4D6FB7-FFC7-4807-B8C1-BEE9D5F4D1A8}|MBPH Connector\\MBPH Connector.csproj|solutionrelative:mbph connector\\repositories\\syncbillsandpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4D6FB7-FFC7-4807-B8C1-BEE9D5F4D1A8}|MBPH Connector\\MBPH Connector.csproj|c:\\users\\jeffrey rapirap\\documents\\vertaccount\\mbph\\230-02\\va-mybillsph-qbd-connector\\mbph connector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4D6FB7-FFC7-4807-B8C1-BEE9D5F4D1A8}|MBPH Connector\\MBPH Connector.csproj|solutionrelative:mbph connector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4D6FB7-FFC7-4807-B8C1-BEE9D5F4D1A8}|MBPH Connector\\MBPH Connector.csproj|C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\mbph connector\\repositories\\synclists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4D6FB7-FFC7-4807-B8C1-BEE9D5F4D1A8}|MBPH Connector\\MBPH Connector.csproj|solutionrelative:mbph connector\\repositories\\synclists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2930FE24-1A3D-4D85-A55D-AF75B98BFC42}|MBPHReader\\MBPHReader.csproj|C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\mbphreader\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2930FE24-1A3D-4D85-A55D-AF75B98BFC42}|MBPHReader\\MBPHReader.csproj|solutionrelative:mbphreader\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2930FE24-1A3D-4D85-A55D-AF75B98BFC42}|MBPHReader\\MBPHReader.csproj|C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\mbphreader\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2930FE24-1A3D-4D85-A55D-AF75B98BFC42}|MBPHReader\\MBPHReader.csproj|solutionrelative:mbphreader\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2930FE24-1A3D-4D85-A55D-AF75B98BFC42}|MBPHReader\\MBPHReader.csproj|C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\mbphreader\\mybillsph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2930FE24-1A3D-4D85-A55D-AF75B98BFC42}|MBPHReader\\MBPHReader.csproj|solutionrelative:mbphreader\\mybillsph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPH Connector\\Form1.cs",
+              "RelativeDocumentMoniker": "MBPH Connector\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPH Connector\\Form1.cs",
+              "RelativeToolTip": "MBPH Connector\\Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:52:39.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SyncBillsAndPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPH Connector\\Repositories\\SyncBillsAndPayment.cs",
+              "RelativeDocumentMoniker": "MBPH Connector\\Repositories\\SyncBillsAndPayment.cs",
+              "ToolTip": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPH Connector\\Repositories\\SyncBillsAndPayment.cs",
+              "RelativeToolTip": "MBPH Connector\\Repositories\\SyncBillsAndPayment.cs",
+              "ViewState": "AgIAAGsDAAAAAAAAAAAQwIcEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:01:54.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bills.cs",
+              "DocumentMoniker": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPHReader\\Bills.cs",
+              "RelativeDocumentMoniker": "MBPHReader\\Bills.cs",
+              "ToolTip": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPHReader\\Bills.cs",
+              "RelativeToolTip": "MBPHReader\\Bills.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA8wBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:32:04.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SyncLists.cs",
+              "DocumentMoniker": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPH Connector\\Repositories\\SyncLists.cs",
+              "RelativeDocumentMoniker": "MBPH Connector\\Repositories\\SyncLists.cs",
+              "ToolTip": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPH Connector\\Repositories\\SyncLists.cs",
+              "RelativeToolTip": "MBPH Connector\\Repositories\\SyncLists.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAlwCIBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:32:39.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPHReader\\Payments.cs",
+              "RelativeDocumentMoniker": "MBPHReader\\Payments.cs",
+              "ToolTip": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPHReader\\Payments.cs",
+              "RelativeToolTip": "MBPHReader\\Payments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:40:38.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyBillsPH.cs",
+              "DocumentMoniker": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPHReader\\MyBillsPH.cs",
+              "RelativeDocumentMoniker": "MBPHReader\\MyBillsPH.cs",
+              "ToolTip": "C:\\Users\\Jeffrey Rapirap\\Documents\\Vertaccount\\MBPH\\230-02\\va-mybillsph-qbd-connector\\MBPHReader\\MyBillsPH.cs",
+              "RelativeToolTip": "MBPHReader\\MyBillsPH.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:32:37.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.CMD\bin\Debug\MBPH.CMD.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.CMD\bin\Debug\MBPH.CMD.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.CMD\obj\Debug\MBPH.CMD.csprojAssemblyReference.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.CMD\obj\Debug\MBPH.CMD.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.CMD\obj\Debug\MBPH.CMD.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.CMD\obj\Debug\MBPH.CMD.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.CMD\bin\Debug\MBPH.CMD.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.CMD\bin\Debug\MBPH.CMD.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.CMD\obj\Debug\MBPH.CMD.csproj.AssemblyReference.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.CMD\obj\Debug\MBPH.CMD.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.CMD\obj\Debug\MBPH.CMD.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.CMD\obj\Debug\MBPH.CMD.pdb

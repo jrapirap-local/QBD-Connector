@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AC4D6FB7-FFC7-4807-B8C1-BEE9D5F4D1A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MBPH_Connector</RootNamespace>
+    <AssemblyName>MBPH Connector</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.QBFC13Lib">
+      <HintPath>..\QuickBooksReader\obj\Debug\Interop.QBFC13Lib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MBPH.QBDLinq\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstraction\Process.cs" />
+    <Compile Include="Abstraction\Session.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IRepositories\ICompanyBinding.cs" />
+    <Compile Include="IRepositories\ISyncBillsAndPayment.cs" />
+    <Compile Include="IRepositories\ISyncLists.cs" />
+    <Compile Include="Model\USER_INFO.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\AsyncECIRA.cs" />
+    <Compile Include="Repositories\CompanyBinding.cs" />
+    <Compile Include="Repositories\SyncBillsAndPayment.cs" />
+    <Compile Include="Repositories\SyncLists.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\MBPH.CMD\MBPH.CMD.csproj">
+      <Project>{a808a232-2daf-4ce9-9e20-ac2145ba8d80}</Project>
+      <Name>MBPH.CMD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MBPH.ECIRA\MBPH.ECIRA.csproj">
+      <Project>{c82be5c9-05b1-4db0-821f-b185c40ac3e5}</Project>
+      <Name>MBPH.ECIRA</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MBPH.Encryption\MBPH.Encryption.csproj">
+      <Project>{B3FE9ADF-269C-4712-BFD3-9D1F09D24587}</Project>
+      <Name>MBPH.Encryption</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MBPH.Extension\MBPH.Extension.csproj">
+      <Project>{34495925-af3f-47b9-b017-c33375c1f290}</Project>
+      <Name>MBPH.Extension</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MBPH.QBDLinq\MBPH.QBDLinq.csproj">
+      <Project>{d4ca7d9a-d9f1-42f2-93ae-e7e49e7f8824}</Project>
+      <Name>MBPH.QBDLinq</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MBPHReader\MBPHReader.csproj">
+      <Project>{2930fe24-1a3d-4d85-a55d-af75b98bfc42}</Project>
+      <Name>MBPHReader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuickBooksReader\QuickBooksReader.csproj">
+      <Project>{0fd10e22-d200-400d-9503-9fe4226e78ec}</Project>
+      <Name>QuickBooksReader</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

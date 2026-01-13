@@ -1,0 +1,35 @@
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPHReader\bin\Debug\MBPHReader.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPHReader\bin\Debug\MBPHReader.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPHReader\bin\Debug\MBPH.Extension.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPHReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPHReader\bin\Debug\MBPH.Extension.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPHReader\obj\Debug\MBPHReader.csprojAssemblyReference.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPHReader\obj\Debug\MBPHReader.csproj.CoreCompileInputs.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPHReader\obj\Debug\MBPHReader.csproj.CopyComplete
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPHReader\obj\Debug\MBPHReader.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPHReader\obj\Debug\MBPHReader.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPHReader\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\MBPHReader.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\MBPHReader.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\MBPH.Extension.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\MBPH.Extension.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPHReader\obj\Debug\MBPHReader.csprojAssemblyReference.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPHReader\obj\Debug\MBPHReader.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPHReader\obj\Debug\MBPHReader.csproj.CopyComplete
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPHReader\obj\Debug\MBPHReader.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPHReader\obj\Debug\MBPHReader.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\MBPHReader.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\MBPHReader.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\MBPH.Encryption.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\MBPH.Extension.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\MBPH.Encryption.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\MBPH.Extension.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\obj\Debug\MBPHReader.csproj.AssemblyReference.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\obj\Debug\MBPHReader.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\obj\Debug\MBPHReader.csproj.Up2Date
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\obj\Debug\MBPHReader.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPHReader\obj\Debug\MBPHReader.pdb

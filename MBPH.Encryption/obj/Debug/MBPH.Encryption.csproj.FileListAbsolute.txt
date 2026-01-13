@@ -1,0 +1,56 @@
+D:\PROJECTS\va-mybillsph-admin\MBPH.Encryption\bin\Debug\MBPH.Encryption.dll
+D:\PROJECTS\va-mybillsph-admin\MBPH.Encryption\bin\Debug\MBPH.Encryption.pdb
+D:\PROJECTS\va-mybillsph-admin\MBPH.Encryption\bin\Debug\MBPH.Extension.dll
+D:\PROJECTS\va-mybillsph-admin\MBPH.Encryption\bin\Debug\MBPH.Extension.pdb
+D:\PROJECTS\va-mybillsph-admin\MBPH.Encryption\obj\Debug\MBPH.Encryption.csprojAssemblyReference.cache
+D:\PROJECTS\va-mybillsph-admin\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.CoreCompileInputs.cache
+D:\PROJECTS\va-mybillsph-admin\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.CopyComplete
+D:\PROJECTS\va-mybillsph-admin\MBPH.Encryption\obj\Debug\MBPH.Encryption.dll
+D:\PROJECTS\va-mybillsph-admin\MBPH.Encryption\obj\Debug\MBPH.Encryption.pdb
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Encryption\bin\Debug\MBPH.Encryption.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Encryption\bin\Debug\MBPH.Encryption.pdb
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Encryption\bin\Debug\MBPH.Extension.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Encryption\bin\Debug\MBPH.Extension.pdb
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csprojAssemblyReference.cache
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.CopyComplete
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Encryption\bin\Debug\MBPH.Encryption.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Encryption\bin\Debug\MBPH.Encryption.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Encryption\bin\Debug\MBPH.Extension.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Encryption\bin\Debug\MBPH.Extension.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csprojAssemblyReference.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.CopyComplete
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Encryption\bin\Debug\MBPH.Encryption.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Encryption\bin\Debug\MBPH.Encryption.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Encryption\bin\Debug\MBPH.Extension.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Encryption\bin\Debug\MBPH.Extension.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csprojAssemblyReference.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.CopyComplete
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.pdb
+D:\PROJECTS\MBPH Connector\MBPH.Encryption\bin\Debug\MBPH.Encryption.dll
+D:\PROJECTS\MBPH Connector\MBPH.Encryption\bin\Debug\MBPH.Encryption.pdb
+D:\PROJECTS\MBPH Connector\MBPH.Encryption\bin\Debug\MBPH.Extension.dll
+D:\PROJECTS\MBPH Connector\MBPH.Encryption\bin\Debug\MBPH.Extension.pdb
+D:\PROJECTS\MBPH Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csprojAssemblyReference.cache
+D:\PROJECTS\MBPH Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.CoreCompileInputs.cache
+D:\PROJECTS\MBPH Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.CopyComplete
+D:\PROJECTS\MBPH Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.dll
+D:\PROJECTS\MBPH Connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Encryption\bin\Debug\MBPH.Encryption.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Encryption\bin\Debug\MBPH.Encryption.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Encryption\bin\Debug\MBPH.Extension.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Encryption\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Encryption\bin\Debug\MBPH.Extension.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Encryption\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.AssemblyReference.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Encryption\obj\Debug\MBPH.Enc.D263A131.Up2Date
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Encryption\obj\Debug\MBPH.Encryption.pdb

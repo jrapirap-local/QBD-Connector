@@ -1,0 +1,57 @@
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH Connector.exe.config
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH Connector.exe
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH Connector.pdb
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH.CMD.dll
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH.Encryption.dll
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH.Extension.dll
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH.QBDLinq.dll
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPHReader.dll
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\QuickBooksReader.dll
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH.CMD.pdb
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH.Encryption.pdb
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH.Extension.pdb
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH.QBDLinq.pdb
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPHReader.pdb
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\QuickBooksReader.pdb
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\QuickBooksReader.dll.config
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECTS\MBPH Connector\MBPH Connector\obj\Debug\MBPH Connector.csprojAssemblyReference.cache
+D:\PROJECTS\MBPH Connector\MBPH Connector\obj\Debug\MBPH_Connector.Form1.resources
+D:\PROJECTS\MBPH Connector\MBPH Connector\obj\Debug\MBPH_Connector.Properties.Resources.resources
+D:\PROJECTS\MBPH Connector\MBPH Connector\obj\Debug\MBPH Connector.csproj.GenerateResource.cache
+D:\PROJECTS\MBPH Connector\MBPH Connector\obj\Debug\MBPH Connector.csproj.CoreCompileInputs.cache
+D:\PROJECTS\MBPH Connector\MBPH Connector\obj\Debug\MBPH Connector.csproj.CopyComplete
+D:\PROJECTS\MBPH Connector\MBPH Connector\obj\Debug\MBPH Connector.exe
+D:\PROJECTS\MBPH Connector\MBPH Connector\obj\Debug\MBPH Connector.pdb
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH.ECIRA.dll
+D:\PROJECTS\MBPH Connector\MBPH Connector\bin\Debug\MBPH.ECIRA.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH Connector.exe.config
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH Connector.exe
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH Connector.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH.CMD.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH.ECIRA.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH.Encryption.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH.Extension.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH.QBDLinq.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPHReader.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\QuickBooksReader.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH.CMD.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH.ECIRA.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH.Encryption.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH.Extension.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPH.QBDLinq.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\MBPHReader.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\QuickBooksReader.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\QuickBooksReader.dll.config
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\obj\Debug\MBPH Connector.csproj.AssemblyReference.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\obj\Debug\MBPH Connector.exe.config
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\obj\Debug\MBPH_Connector.Form1.resources
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\obj\Debug\MBPH_Connector.Properties.Resources.resources
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\obj\Debug\MBPH Connector.csproj.GenerateResource.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\obj\Debug\MBPH Connector.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\obj\Debug\MBPH Con.A91A9425.Up2Date
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\obj\Debug\MBPH Connector.exe
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH Connector\obj\Debug\MBPH Connector.pdb

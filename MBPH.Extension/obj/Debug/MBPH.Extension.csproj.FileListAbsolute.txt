@@ -1,0 +1,56 @@
+D:\PROJECTS\va-mybillsph-admin\MBPH.Extension\bin\Debug\MBPH.Extension.dll
+D:\PROJECTS\va-mybillsph-admin\MBPH.Extension\bin\Debug\MBPH.Extension.pdb
+D:\PROJECTS\va-mybillsph-admin\MBPH.Extension\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\PROJECTS\va-mybillsph-admin\MBPH.Extension\obj\Debug\MBPH.Extension.csprojAssemblyReference.cache
+D:\PROJECTS\va-mybillsph-admin\MBPH.Extension\obj\Debug\MBPH.Extension.csproj.CoreCompileInputs.cache
+D:\PROJECTS\va-mybillsph-admin\MBPH.Extension\obj\Debug\MBPH.Extension.csproj.CopyComplete
+D:\PROJECTS\va-mybillsph-admin\MBPH.Extension\obj\Debug\MBPH.Extension.dll
+D:\PROJECTS\va-mybillsph-admin\MBPH.Extension\obj\Debug\MBPH.Extension.pdb
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\bin\Debug\MBPH.Extension.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\bin\Debug\MBPH.Extension.pdb
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\bin\Debug\System.IO.Packaging.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\obj\Debug\MBPH.Extension.csprojAssemblyReference.cache
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\obj\Debug\MBPH.Extension.csproj.CoreCompileInputs.cache
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\obj\Debug\MBPH.Extension.csproj.CopyComplete
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\obj\Debug\MBPH.Extension.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.Extension\obj\Debug\MBPH.Extension.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\bin\Debug\MBPH.Extension.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\bin\Debug\MBPH.Extension.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\bin\Debug\System.IO.Packaging.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\obj\Debug\MBPH.Extension.csprojAssemblyReference.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\obj\Debug\MBPH.Extension.csproj.CoreCompileInputs.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\obj\Debug\MBPH.Extension.csproj.CopyComplete
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\obj\Debug\MBPH.Extension.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.Extension\obj\Debug\MBPH.Extension.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\MBPH.Extension.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\MBPH.Extension.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\DocumentFormat.OpenXml.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\ExcelNumberFormat.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\System.IO.Packaging.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\DocumentFormat.OpenXml.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\ExcelNumberFormat.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\obj\Debug\MBPH.Extension.csprojAssemblyReference.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\obj\Debug\MBPH.Extension.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\obj\Debug\MBPH.Extension.csproj.CopyComplete
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\obj\Debug\MBPH.Extension.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.Extension\obj\Debug\MBPH.Extension.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\MBPH.Extension.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\MBPH.Extension.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\System.IO.Packaging.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\obj\Debug\MBPH.Extension.csproj.AssemblyReference.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\obj\Debug\MBPH.Extension.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\obj\Debug\MBPH.Ext.A21DADED.Up2Date
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\obj\Debug\MBPH.Extension.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.Extension\obj\Debug\MBPH.Extension.pdb

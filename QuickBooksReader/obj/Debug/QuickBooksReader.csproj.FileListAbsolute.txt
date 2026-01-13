@@ -1,0 +1,140 @@
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\QuickBooksReader\obj\Debug\QuickBooksReader.csprojAssemblyReference.cache
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\QuickBooksReader\obj\Debug\Interop.QBFC14Lib.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.ResolveComReference.cache
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.CoreCompileInputs.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\QuickBooksReader.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\QuickBooksReader.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\MBPH.QBDLinq.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Text.Json.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Memory.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.ValueTuple.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Buffers.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\MBPH.QBDLinq.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Text.Json.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Memory.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.ValueTuple.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Buffers.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\obj\Debug\QuickBooksReader.csprojAssemblyReference.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\obj\Debug\Interop.QBFC16Lib.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.ResolveComReference.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.CoreCompileInputs.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.CopyComplete
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\obj\Debug\QuickBooksReader.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\obj\Debug\QuickBooksReader.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\obj\Debug\Interop.QBFC14Lib.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\obj\Debug\Interop.QBFC13Lib.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\QuickBooksReader\obj\Debug\Interop.QBFC12Lib.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\QuickBooksReader.dll.config
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\QuickBooksReader.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\QuickBooksReader.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\MBPH.Extension.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\MBPH.QBDLinq.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Buffers.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Memory.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Numerics.Vectors.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Text.Encodings.Web.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Text.Json.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.ValueTuple.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\MBPH.Extension.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\MBPH.QBDLinq.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Buffers.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Memory.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Numerics.Vectors.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Text.Encodings.Web.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Text.Json.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.ValueTuple.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBooksReader.csprojAssemblyReference.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\Interop.QBFC13Lib.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.ResolveComReference.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.CopyComplete
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBooksReader.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBooksReader.pdb
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\QuickBooksReader.dll.config
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\QuickBooksReader.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\QuickBooksReader.pdb
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\MBPH.Extension.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\MBPH.QBDLinq.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Buffers.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Memory.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Numerics.Vectors.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Text.Encodings.Web.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Text.Json.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.ValueTuple.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\MBPH.Extension.pdb
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\MBPH.QBDLinq.pdb
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Buffers.xml
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Memory.xml
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Numerics.Vectors.xml
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Text.Encodings.Web.xml
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Text.Json.xml
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\System.ValueTuple.xml
+D:\PROJECTS\MBPH Connector\QuickBooksReader\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECTS\MBPH Connector\QuickBooksReader\obj\Debug\QuickBooksReader.csprojAssemblyReference.cache
+D:\PROJECTS\MBPH Connector\QuickBooksReader\obj\Debug\Interop.QBFC13Lib.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.ResolveComReference.cache
+D:\PROJECTS\MBPH Connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.CoreCompileInputs.cache
+D:\PROJECTS\MBPH Connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.CopyComplete
+D:\PROJECTS\MBPH Connector\QuickBooksReader\obj\Debug\QuickBooksReader.dll
+D:\PROJECTS\MBPH Connector\QuickBooksReader\obj\Debug\QuickBooksReader.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\QuickBooksReader.dll.config
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\QuickBooksReader.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\QuickBooksReader.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\MBPH.Extension.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\MBPH.QBDLinq.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Buffers.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Memory.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Text.Json.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.ValueTuple.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\MBPH.Extension.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\MBPH.QBDLinq.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Buffers.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Memory.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Text.Json.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\System.ValueTuple.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.AssemblyReference.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\Interop.QBFC13Lib.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.ResolveComReference.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBooksReader.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBoo.24380152.Up2Date
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBooksReader.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\QuickBooksReader\obj\Debug\QuickBooksReader.pdb

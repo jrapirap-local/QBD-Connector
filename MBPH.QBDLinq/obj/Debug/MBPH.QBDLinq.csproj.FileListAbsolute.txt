@@ -1,0 +1,78 @@
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\MBPH.QBDLinq.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\MBPH.QBDLinq.pdb
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Text.Json.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Memory.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.ValueTuple.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Buffers.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Text.Json.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Memory.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.ValueTuple.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Buffers.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.csproj.CoreCompileInputs.cache
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.csproj.CopyComplete
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.dll
+C:\Users\Remil Riel\source\repos\MBPH QBD Connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\MBPH.QBDLinq.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\MBPH.QBDLinq.pdb
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Text.Json.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Memory.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.ValueTuple.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Buffers.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Text.Json.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Memory.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.ValueTuple.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Buffers.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.csprojAssemblyReference.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.csproj.CoreCompileInputs.cache
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.csproj.CopyComplete
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.dll
+C:\Users\Remil Riel\source\repos\MBPH QuickBooksDesktop Connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\MBPH.QBDLinq.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\MBPH.QBDLinq.pdb
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.csprojAssemblyReference.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.csproj.CopyComplete
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.dll
+D:\PROJECTS\Connector\va-mybillsph-qbd-connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\MBPH.QBDLinq.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\MBPH.QBDLinq.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\System.Text.Json.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\System.Memory.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\System.ValueTuple.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.csproj.AssemblyReference.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\obj\Debug\MBPH.QBD.7DF38A4E.Up2Date
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\MBPH\230-02\va-mybillsph-qbd-connector\MBPH.QBDLinq\obj\Debug\MBPH.QBDLinq.pdb
